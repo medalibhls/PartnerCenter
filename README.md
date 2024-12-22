@@ -1,0 +1,2 @@
+# PartnerCenter
+Azure Cloud Test
